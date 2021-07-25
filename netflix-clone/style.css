@@ -88,3 +88,8 @@ header nav a:hover {
 .main-film .container {
   width: 65%;
 }
+
+.card {
+  width: 250px;
+  display: block;
+}
