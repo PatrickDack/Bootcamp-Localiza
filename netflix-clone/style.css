@@ -93,3 +93,24 @@ header nav a:hover {
   width: 250px;
   display: block;
 }
+
+@media screen and (max-width:700px) {
+  header .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .button {
+    margin-bottom: 10px;
+    width: 200px;
+  }
+}
+
+@media screen and (min-width:1000px) {
+  .describe {
+    width: 60%;
+  }
+  .title {
+    width: 60%
+  }
+}
