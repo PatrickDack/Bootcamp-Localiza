@@ -59,3 +59,24 @@ header nav a:hover {
 .title {
   font-size: 40px;
 }
+
+.button {
+  background-color: rgba(0, 0, 0, .50);
+  border: none;
+  color: white;
+
+  padding: 15px 30px;
+  margin-right: 15px;
+
+  cursor: pointer;
+  transition: .5s ease all;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+}
+
+.button i {
+  margin-right: 10px;
+}
