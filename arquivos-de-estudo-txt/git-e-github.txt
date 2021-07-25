@@ -1,0 +1,55 @@
+GUI X CLI - Grafic User Iterface / Cliente Line Iterface.
+
+Intalando o Git no Linux:
+
+apt-get install git
+
+git --status
+
+git --version
+
+Entendendo como o Git funciona por baixo dos panos:
+
+SHA significa Secure Hash Algorithm
+A encriptação gera conjungo de characters indentificador de 40 dígitos. (SHA1).
+
+O Git é um sistema distribuido, pois possui vairas copias de seu codigo em diversas maquinas.
+Primeiros comandos no Git:
+
+git init
+git add
+git commit
+
+Todo comando do Git inicia a palavra git.
+
+Configurações iniciais do Git:
+
+git config --global user.email "edereco@gmail.com"
+
+git config --global user.name "seuNome"
+
+Markdown é uma linguagem de marcação assim como HTML e tem a extensao .md
+
+# = <h1> / ## = <h2> ... para titulo
+
+**negrito**
+_italico_
+
+:nomeDoEmoji // para criar um emoji
+
+space - space // lista não ordenada
+
+CICLO DE VIDA DOS ARQUIVOS NO GIT
+
+Assim que criamos um arquivo no diretoria ele é untracked.
+
+Ao editar um arquivo ele muda de "unmodified" para "modified", o git vai comparar o sha1 entre as duas versoes do arquivo.
+
+INTRODUÇÃO AO GITHUB
+
+git config --list //listar configurações q para sair
+
+git config --global --unset user.email // remove o atributo das configurações
+
+git remote add origin endereço ssh https // adiciona o repositorio remoto
+

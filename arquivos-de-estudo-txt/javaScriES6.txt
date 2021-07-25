@@ -1,0 +1,6 @@
+Tipos e Variaveis:
+
+Primitivos - string, number, null, undefined, symbol.
+
+Outros - Object, function e array.
+

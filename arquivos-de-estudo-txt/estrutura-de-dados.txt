@@ -1,0 +1,64 @@
+O que é estrutura de dados?
+
+É uma estrurura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento.
+
+Principais Estruturas de Dados:
+
+Vetores e Matrizes
+Registro
+Lista
+Pilha
+Fila
+Arvore
+Tabela Hash
+Grafos
+---------------------------------------
+
+Titulo: Vetores e matrizes
+
+São estrutura de dados simples que podem auxiliar quando há muitas variaveis do mesmo tipo em um algoritmo.
+
+Titulo: Registro
+
+Um Registro é uma estrutura que fornece um formato especializado para armazenar informações em memória.
+
+A estrutura de um registro se assemelha a de um Objeto.
+Titulo: Listas, Pilhas e Filas
+
+Listas:
+
+Armazena os dados em uma ordem especifica.
+
+Existe dois tipos de listas: Ligadas e Duplamente Ligadas.
+
+Listas Ligadas: Possui uma ligação com o proximo valor da lista (nó), nunca com o anterior.
+
+Listas Duplamente Ligadas: São bidimencinais, podemos andar para frente ou para tráossuimos ligação com os dois nós.
+
+Pilhas: Serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado. Somente um item pode ser lido ou removido por vez.
+
+Tipos de Pilhas.
+
+LIFO ou EUPS - Last in First Out
+FIFO ou PEPS - First in First Out - Primeiro que entra Primeiro que sai.
+
+Filas:
+
+O elemento a ser removido é o que esta na fila ha mais tempo seguindo a filosofia FIFO. C em uma fila real o primeiro a ser atendido é sempre o primeiro da fila, ou o que chegou primeiro.
+Árvore: 
+
+É uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele, que s]ao chamados de nós ou folhas.
+
+Tabela Hash:
+
+Uma tabela hash, de dispersão ou espalhamento é uma estrutura de dados especial, que associa chaves de pesquisa a valores.
+
+É uma generalização da idéia de array, porém utiliza uma função denominada Hashing para espalhar os elementos, fazendo com que os mesmos fiquem de forma não ordenada dentro do "array" que define a tabela.
+
+A tabela hash permite a associação de VALORES 	a CHAVE.
+
+Grafos: 
+
+São estruturas que permitem programar a relação entre objetos. Os objetos são vertices ou nós do grafo. Os relacionamentos são as arestas.
+
+Grafo: Inteligencia artificial, jogos, buscas avançadas.
