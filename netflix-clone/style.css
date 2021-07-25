@@ -94,6 +94,15 @@ header nav a:hover {
   display: block;
 }
 
+.item {
+  filter: opacity(50%);
+  transition: .5s;
+}
+
+.item:hover {
+  filter: opacity(100%);
+}
+
 @media screen and (max-width:700px) {
   header .container {
     display: flex;
